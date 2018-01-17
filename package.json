@@ -1,0 +1,15 @@
+{
+    "id": "spotify-music",
+    "name": "Spotify Music",
+    "version": "1.0.0",
+    "description": "Spotify Music Player",
+    "main": "index.js",
+    "author": "Don Oerkfitz <don@oerkfitz.com>",
+    "license": "MIT",
+    "repository": "https://github.com/agodlydeciple/franz-spotify-music",
+    "config": {
+        "serviceURL": "https://open.spotify.com/browse",
+        "hasNotificationSound": false,
+        "hasTeamID": false
+    }
+}
